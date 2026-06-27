@@ -1,6 +1,0 @@
-com\nikhil\database\controllers\BookControllerIntegrationTest.class
-com\nikhil\database\repositories\AuthorEntityRepositoryIntegrationTests.class
-com\nikhil\database\repositories\BookEntityDaoImplIntegrationsTests.class
-com\nikhil\database\BooksApiApplicationTests.class
-com\nikhil\database\controllers\AuthorControllerIntegrationTest.class
-com\nikhil\database\TestDataUtil.class
